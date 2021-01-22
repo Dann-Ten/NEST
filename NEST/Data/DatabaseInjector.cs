@@ -29,6 +29,9 @@ namespace NEST.Data
             var List = new IsolationPointList[] {
                 new IsolationPointList{ParentSystem="test",IsolationPoint="test",SwitchboardOrCubicle="test",Description="test",PhysicalLocation="test",
                 IsolationCat=IsolationCat.Mechanical, DefaultIso=DefaultIso.Closed,FacilityCode=1, IsolationType="test", EnergyPotential="test", Padlockable=true, PreferredPadlock="test", PreferredLockout="test",
+                AlternateLockout="test", IsIsolationPoint=true, ValidationPoss=true, ValidationMethod="test", HighRiskPlant=true, Photos="test", Comments="test", CheckedBy="test" },
+                 new IsolationPointList{ParentSystem="tester",IsolationPoint="test",SwitchboardOrCubicle="test",Description="test",PhysicalLocation="test",
+                IsolationCat=IsolationCat.Mechanical, DefaultIso=DefaultIso.Closed,FacilityCode=1, IsolationType="test", EnergyPotential="test", Padlockable=true, PreferredPadlock="test", PreferredLockout="test",
                 AlternateLockout="test", IsIsolationPoint=true, ValidationPoss=true, ValidationMethod="test", HighRiskPlant=true, Photos="test", Comments="test", CheckedBy="test" }
             };
             foreach (IsolationPointList Lists in List)

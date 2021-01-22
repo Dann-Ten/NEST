@@ -1,25 +1,19 @@
 <template>
   <div class="about">
-      <h1>This is an about page {{users}}</h1>
+      <h1>This is an about page {{IsolationPointList}}</h1>
   </div>
 </template>
 
 <script>
-    export default {
+    export default {       
         name: 'app',
         data() {
             return {
-                users: null
+                IsolationPointList: null
             }
         },
         mounted() {
-            fetch('/api/IsoPoint')
-                .then(response => {
-                    return response.json()
-                })
-                .then(data => {
-                    this.users = data
-                })
+            fetch('/api/IsoPoint').then(data => { this.IsolationPointList = data })
         }
     }
 

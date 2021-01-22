@@ -1,7 +1,7 @@
 import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from "../views/Home.vue";
-
+import NProgress from "../assets/nprogress/nprogress";
 Vue.use(VueRouter);
 
 const routes = [
@@ -60,10 +60,19 @@ const routes = [
         component: () => import('../views/Work.vue')
     }
 ];
-
 const router = new VueRouter({
-  mode: 'history',
-  routes
+    mode: 'history',
+    routes
+});
+
+router.beforeResolve((to, from, next) => {
+    if (to.name) {
+        NProgress.start()
+    }
+    next()
+});
+router.afterEach(() => {
+    NProgress.done()
 });
 
 export default router;
