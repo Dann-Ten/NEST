@@ -7427,11 +7427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\NEST\\NEST\\NEST.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\MIDWeb\\NEST\\NEST.csproj",
       "projectName": "NEST",
-      "projectPath": "C:\\Users\\User\\source\\repos\\NEST\\NEST\\NEST.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\MIDWeb\\NEST\\NEST.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\NEST\\NEST\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\MIDWeb\\NEST\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

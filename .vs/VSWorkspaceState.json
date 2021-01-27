@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\NEST"
   ],
-  "SelectedNode": "\\NEST.sln",
+  "SelectedNode": "\\NEST\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }
