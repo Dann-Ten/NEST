@@ -7422,19 +7422,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DT123\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DT123\\Source\\Repos\\NEST\\NEST\\NEST.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\NEST\\NEST\\NEST.csproj",
       "projectName": "NEST",
-      "projectPath": "C:\\Users\\DT123\\Source\\Repos\\NEST\\NEST\\NEST.csproj",
-      "packagesPath": "C:\\Users\\DT123\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DT123\\Source\\Repos\\NEST\\NEST\\obj\\",
+      "projectPath": "C:\\Users\\User\\source\\repos\\NEST\\NEST\\NEST.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\NEST\\NEST\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DT123\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7446,7 +7446,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -7458,7 +7457,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.AspNetCore.SpaServices.Extensions": {
             "target": "Package",
@@ -7501,7 +7499,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

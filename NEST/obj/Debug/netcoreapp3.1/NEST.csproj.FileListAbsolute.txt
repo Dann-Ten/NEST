@@ -153,3 +153,6 @@ C:\Users\DT123\Source\Repos\NEST\NEST\obj\Debug\netcoreapp3.1\NEST.genruntimecon
 C:\Users\DT123\Source\Repos\NEST\NEST\bin\Debug\netcoreapp3.1\vuenestfront\src\assets\nprogress\bower.json
 C:\Users\DT123\Source\Repos\NEST\NEST\bin\Debug\netcoreapp3.1\vuenestfront\src\assets\nprogress\component.json
 C:\Users\DT123\Source\Repos\NEST\NEST\bin\Debug\netcoreapp3.1\vuenestfront\src\assets\nprogress\package.json
+C:\Users\User\source\repos\NEST\NEST\bin\Debug\netcoreapp3.1\vuenestfront\src\assets\nprogress\bower.json
+C:\Users\User\source\repos\NEST\NEST\bin\Debug\netcoreapp3.1\vuenestfront\src\assets\nprogress\component.json
+C:\Users\User\source\repos\NEST\NEST\bin\Debug\netcoreapp3.1\vuenestfront\src\assets\nprogress\package.json
